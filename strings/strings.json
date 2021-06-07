@@ -1,0 +1,18 @@
+{
+	"lang": ["en"],
+	"en":{
+		"help":"\ud83d\udcac I help you to instantly translate your text to any language and give out in both text and voice, just use me inline and click the desire option,\n<code>this is an example #ja</code>",
+		"start":"Hello {}\ud83d\udc4a,\nI can help you to translate anything inline instantly to text or voice!\n\n{} to learn more about bot\n{} to list all language ISO codes\n{} to change deafult translation language\n{} to change separator symbol",
+		"*start":["{}","/help","/list","/tolang","/sepa"],
+		"soon":"Coming soon \uD83C\uDF89",
+		"sepa_done":"\u2705 Done, set to {}",
+		"sepa_404":"\u269b\ufe0f Current Separator <b><code>{}</code></b>\nYou can set your own custom separator using /sepa or /separator <space> symbol, must be within (<b>~!@#$%:^;&*-_+=>?|.</b>)\n<b>Example</b> <code>/sepa $</code>",
+		"language":"\ud83c\udf0e Language :\n",
+		"loading":"\uD83D\uDDE8 working \u2022\u2022\u2022",
+		"lang_list":"\ud83c\ude36 List of all languages and its code :",
+		"to_lang":"\ud83c\udf0e Current default language is <b>{}</b>\nTo change the translation conversion language send /tolang or /defaultlang <space> langcode\nExample <code>/tolang ja</code>",
+		"translating":"\ud83d\udcac translating \u2022\u2022\u2022",
+		"maintenance":"\ud83d\udea7 Sorry, will be back soon :) fixing and upgrading bot",
+		"unexpected_error":"\ud83d\udeab An unexpected error occur"
+	}
+}
