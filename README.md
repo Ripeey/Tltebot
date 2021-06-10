@@ -2,7 +2,7 @@
 An **example** translator telegram bot [@tltebot](https://t.me/tltebot) works inline and private chats using [Gpyts](https://github.com/Ripeey/Gpyts).
 
 ## Setup 
-Edit `config.ini` with your credentials of `API ID`, `HASH`, `BOT KEY` which you can find [Telegram Apps](hyyps://my.telegram.org/apps)
+Edit `config.ini` with your credentials of `API ID`, `HASH`, `BOT KEY` which you can find [Telegram Apps](https://my.telegram.org/apps)
 ## Usage
 
 ```shell
